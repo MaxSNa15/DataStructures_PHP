@@ -1,3 +1,3 @@
-# Data Structures
+# Estructuras de Datos
 
-The PHP Data Structures Repository on GitHub is a concise collection of PHP data structures created specifically for a university data structures class. It includes optimized implementations of various structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables.
+El Repositorio de Estructuras de Datos en PHP en GitHub es una colección concisa de estructuras de datos en PHP creadas específicamente para una clase de estructuras de datos universitaria. Incluye implementaciones optimizadas de diversas estructuras, como arrays, listas enlazadas, pilas, colas, árboles, grafos y tablas hash.
